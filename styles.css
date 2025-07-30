@@ -45,7 +45,7 @@ body {
 
 /* Nav Menu */
 .main-nav {
-  background: url('pattern-bg.png'); /* Replace with your actual pattern if needed */
+  background: url('background.png'); /* Replace with your actual pattern if needed */
   background-size: cover;
   border-radius: 30px;
   padding: 5px 20px;
