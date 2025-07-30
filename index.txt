@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Project AGOS</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="top-header">
+    <div class="logo-section">
+      <img src="agos-logo.png" alt="AGOS Logo" class="logo" />
+      <div class="logo-text">
+        <h1>AGOS</h1>
+        <p>Artificial Intelligence and Geo-spatial Data<br>for Optimizing Water Scarcity Solutions</p>
+      </div>
+    </div>
+
+    <nav class="main-nav">
+      <ul class="nav-menu">
+        <li class="active">Home</li>
+        <li>Dashboard</li>
+        <li>Timeline</li>
+        <li>EWS</li>
+      </ul>
+    </nav>
+
+    <div class="auth-buttons">
+      <a href="#" class="signin">Sign-in</a>
+      <a href="#" class="signup">Sign-up for free</a>
+    </div>
+  </header>
+
+  <main class="content">
+    <section class="intro">
+      <h2>What is Project AGOS?</h2>
+      <p>Project AGOS is a web-based platform designed to predict potential drought occurrences by leveraging satellite data and advanced geospatial analytics.</p>
+    </section>
+
+    <section class="section-header">
+      <h2>Drought Monitoring Dashboard</h2>
+    </section>
+  </main>
+</body>
+</html>
